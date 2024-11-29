@@ -3,7 +3,47 @@
     height: 100px;
     width: 100px;
     padding: 10px;
-    position: relative;
-    top: 50px;
-    left: 200px;
+
+    position:relative;
+    top: 100px;
+    left: 50px;
+    right: 0px;
+    bottom: 30px;
+
+    margin-top: 6px;
+
+    z-index: -1;
 }
+
+/* p{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: none;
+}
+
+div:hover p{
+    background-color: crimson;
+    color: aliceblue;
+    padding: 20px;
+    display: block;
+
+}
+
+::selection{
+    color: rgb(61, 177, 61);
+    background-color: yellow;
+} */
+
+/* .link:hover{
+    background-color: brown;
+    font-size: larger;
+    font-weight: bold;
+ 
+} 
+
+.link:active{
+    color: chartreuse;
+    background-color: black;
+} */
